@@ -62,14 +62,15 @@ Screenshot :
 <br/>
 If the counter is 0 the label will be black in color.
 
-![0](https://user-images.githubusercontent.com/127447852/229296734-f292fab9-c242-4cc6-b1e6-46e147048e00.png)
+![0](https://user-images.githubusercontent.com/127447852/229302877-0bdbbd13-a1ef-4a85-adf0-da28220b4a97.png)
 
 
 If the counter is negative the label will be a red color.
 
-![under0](https://user-images.githubusercontent.com/127447852/229296732-0d6b940f-b1a9-4956-a0d8-158dd7a29048.png)
+![under0](https://user-images.githubusercontent.com/127447852/229302880-dac1ac67-d1db-40fb-bc03-5f8bb44d58a5.png)
 
 
 If the counter is positive the label will be a green color.
 
-![above0](https://user-images.githubusercontent.com/127447852/229296735-873ec330-588f-4467-ade8-8310bd8bd1fd.png)
+![above0](https://user-images.githubusercontent.com/127447852/229302878-879c2f8a-0002-4d5b-a645-a5a43893be9d.png)
+
