@@ -51,7 +51,7 @@ Screenshot :
 ![Props](https://user-images.githubusercontent.com/127447852/229301117-64434a45-9e72-4419-9a00-cc9c7b0dca0f.png)
 -----------------------------------------------------------
 <h3>useState</h3>
-Label witch shows values between -10 to 10 with two buttons.<br/>
+Label which shows values between -10 to 10 with two buttons.<br/>
 The left button increse the value by one <br/>
 The right button decrese the value by one <br/>
 
