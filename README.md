@@ -52,8 +52,8 @@ Screenshot :
 -----------------------------------------------------------
 <h3>useState</h3>
 Label which shows values between -10 to 10 with two buttons.<br/>
-The left button increse the value by one <br/>
-The right button decrese the value by one <br/>
+The left button increase the value by one <br/>
+The right button decrease the value by one <br/>
 
 
 <br/>
